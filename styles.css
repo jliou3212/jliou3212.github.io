@@ -554,6 +554,7 @@ margin: 0 auto;
 /* Ex-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) {
   .container {
+    display: flex;
     justify-content: center;
     width: 1360px;
   }
