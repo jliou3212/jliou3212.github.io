@@ -177,6 +177,8 @@ iframe {
   padding-bottom: 60px;
 }
 .section {
+  width: 70%;
+  height: 40%;
   justify-content: center;
   margin-bottom: 30px;
 }
@@ -548,6 +550,7 @@ margin: 0 auto;
     margin-bottom: 15px;
   }
 }
+
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
