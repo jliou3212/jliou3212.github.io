@@ -193,6 +193,7 @@ iframe {
 /* About Section */
 /* Latest Section */
 .latest .item {
+margin: 0 auto;
   margin-bottom: 30px;
 }
 .latest .item .title {
