@@ -559,6 +559,4 @@ margin: 0 auto;
 .container {
     display: flex;
     justify-content: center;
-    width: 60%;
-    height: 40%;
 }
