@@ -524,6 +524,7 @@ margin: 0 auto;
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
+    justify-content: center;
     text-align: center;
   }
   .header .profile-image {
@@ -548,6 +549,7 @@ margin: 0 auto;
 /* Ex-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) {
   .container {
+    justify-content: center;
     width: 1360px;
   }
 }
