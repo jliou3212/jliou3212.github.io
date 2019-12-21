@@ -120,6 +120,7 @@ iframe {
   background: #f5f5f5;
   border-top: 10px solid #778492;
   text-align: center;
+  justify-content: center;
 }
 .header .btn {
   margin-top: 60px;
@@ -134,6 +135,7 @@ iframe {
   margin-bottom: 5px;
   margin-top: 30px;
   text-align: center;
+  justify-content: center;
 }
 .header .profile-content .desc {
   color: #778492;
@@ -143,6 +145,7 @@ iframe {
   margin-top: 0;
   margin-bottom: 15px;
   text-align: center;
+  justify-content: center;
 }
 .header .profile-content .social a {
   background: #b0b7bf;
