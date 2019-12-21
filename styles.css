@@ -556,6 +556,7 @@ margin: 0 auto;
   .container {
     display: flex;
     justify-content: center;
-    width: 1360px;
+    width: 60%;
+    height: 40%;
   }
 }
