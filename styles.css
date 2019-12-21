@@ -198,6 +198,8 @@ iframe {
 .latest .item .title {
   font-size: 18px;
   margin-top: 0;
+  text-align: center;
+  
 }
 .latest .item .title .label {
   margin-left: 5px;
