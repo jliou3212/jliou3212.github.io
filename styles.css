@@ -101,19 +101,7 @@ a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
 }
-/*
-iframe {
 
-    .header {
-        padding: 0;
-    }
-}
-
-.iframe-wrapper {
-    overflow: auto;
-    -webkit-overflow-scrolling:touch;
-}
-*/
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
@@ -122,13 +110,12 @@ iframe {
   text-align: center;
   justify-content: center;
 }
+
 .header .btn {
-  margin-top: 60px;
+  margin-top: 30px;
   font-weight: bold;
 }
-.header .profile-image {
-  margin-right: 30px;
-}
+
 .header .profile-content .name {
   color: #49515a;
   font-size: 38px;
@@ -147,27 +134,4 @@ iframe {
   text-align: center;
   justify-content: center;
 }
-.header .profile-content .social a {
-  background: #b0b7bf;
-  width: 36px;
-  height: 36px;
-  display: inline-block;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%;
-  -moz-background-clip: padding;
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
-  color: #fff;
-  text-align: center;
-}
-.header .profile-content .social a:hover {
-  background: #778492;
-  text-align: center;
-}
-.header .profile-content .social a .fa {
-  font-size: 20px;
-  padding-top: 8px;
-}
+
