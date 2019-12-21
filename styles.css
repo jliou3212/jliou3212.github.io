@@ -180,9 +180,11 @@ iframe {
   width: 70%;
   height: 40%;
   justify-content: center;
+  display: flex;
   margin-bottom: 30px;
 }
 .section .section-inner {
+  justify-content: center;
   background: #fff;
   padding: 30px;
 }
