@@ -550,6 +550,7 @@ margin: 0 auto;
 @media (min-width: 1400px) {
   .container {
     justify-content: center;
-    width: 1360px;
+    /*width: 1360px;*/
+    width: 1000px;
   }
 }
