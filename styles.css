@@ -198,13 +198,14 @@ margin: 0 auto;
 }
 .latest .item .title {
   font-size: 18px;
-  margin-top: 0;
+  /*margin-top: 0;*/
   text-align: center;
   
 }
 .latest .item .title .label {
-  margin-left: 5px;
+  /*margin-left: 5px;*/
   font-size: 12px;
+  text-align: center;
 }
 .latest .item .title a {
   color: #778492;
