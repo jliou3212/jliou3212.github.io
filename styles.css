@@ -177,14 +177,13 @@ iframe {
   padding-bottom: 60px;
 }
 .section {
-  width: 70%;
-  height: 40%;
   justify-content: center;
   display: flex;
   margin-bottom: 30px;
 }
 .section .section-inner {
   justify-content: center;
+  display: flex;
   background: #fff;
   padding: 30px;
 }
