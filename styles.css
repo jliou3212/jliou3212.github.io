@@ -534,6 +534,7 @@ margin: 0 auto;
   }
   .header .profile-content {
     float: none !important;
+    justify-content: center;
     text-align: center;
   }
   .header .btn {
